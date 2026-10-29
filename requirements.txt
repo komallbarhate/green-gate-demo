@@ -1,0 +1,2 @@
+# demo-repo pinned deps (intentionally old for Green-Gate demo)
+Werkzeug==2.2.2
